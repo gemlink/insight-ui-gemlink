@@ -1,6 +1,7 @@
 <!doctype html>
 <html lang="en" data-ng-app="insight" data-ng-csp>
 <head>
+  <script type="text/javascript" src="js/local_data.js"></script>
   <base href="/" />
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -60,8 +61,7 @@
         </span>
         &nbsp;
         [
-        <script type="text/javascript" src="js/local_data.js">
-        document.write(local_data.name);</script>
+        <script>document.write(local_data.name);</script>
         <span> &middot; </span>
         <a href="messages/verify" translate>verify message</a>
         <span> &middot; </span>

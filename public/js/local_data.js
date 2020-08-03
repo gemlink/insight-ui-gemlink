@@ -1,1 +1,1 @@
-local_data = { name: "explorer2" }
+local_data = { name: "explorer2" };
