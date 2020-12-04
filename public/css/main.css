@@ -229,7 +229,7 @@ input, button, select, textarea {
     line-height: inherit;
 }
 a {
-    color: #428bca;
+    color: #6f52ed;
     text-decoration: none;
 }
 a:hover, a:focus {
@@ -1516,8 +1516,8 @@ textarea.input-lg, select[multiple].input-lg {
 }
 .btn-primary {
     color: #fff;
-    background-color: #428bca;
-    border-color: #357ebd;
+    background-color: #6f52ed;
+    border-color: #6f52ed;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary {
     color: #fff;
