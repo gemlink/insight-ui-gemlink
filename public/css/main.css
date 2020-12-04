@@ -1074,7 +1074,7 @@ th {
     background-color: #f9f9f9;
 }
 .table-hover>tbody>tr:hover>td, .table-hover>tbody>tr:hover>th {
-    background-color: #f5f5f5;
+    background-color: #ecf5ff;
 }
 table col[class*=col-] {
     position: static;
@@ -4660,7 +4660,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     display: none!important;
 }
 #ngProgress {
-    background-color: #6C9032!important;
+    background-color: #6f52ed!important;
     box-shadow: none!important;
     color: #373D42!important;
     height: 3px!important;
@@ -4853,12 +4853,12 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 .status {
     -moz-border-radius: 3px;
     -webkit-border-radius: 3px;
-    background-color: #f4f4f4;
+    background-color: #6f52ed;
     border-radius: 3px;
     margin: 15px 0;
     padding: 8px 10px;
     font-size: 12px;
-    color: #373D42;
+    color: #ffffff;
     text-align: center;
     margin-right: 10px;
 }
@@ -4918,7 +4918,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     margin-bottom: 10px;
 }
 .icon-block {
-    color: #FFF;
+    color: #000000;
     font-size: 35px;
     margin-top: 10px;
 }
@@ -4939,8 +4939,8 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     border-radius: 2px;
 }
 .btn-primary {
-    background-color: #8DC429;
-    border: 2px solid #76AF0F;
+    background-color: #6f52ed;
+    border: 2px solid #373d42;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary, .btn-success:hover, .btn-success:focus, .btn-success:active, .btn-success.active, .open .dropdown-toggle.btn-success, .btn-danger:hover, .btn-danger:focus, .btn-danger:active, .btn-danger.active, .open .dropdown-toggle.btn-danger {
     background-color: #fff;
@@ -4974,14 +4974,14 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     border-radius: .25em;
 }
 .txvalues-primary {
-    background-color: #8DC429;
+    background-color: #6f52ed;
 }
 .txvalues-default {
     background-color: #EBEBEB;
     color: #333;
 }
 .txvalues-success {
-    background-color: #2FA4D7;
+    background-color: #000000;
 }
 .txvalues-danger {
     background-color: #AC0015;
