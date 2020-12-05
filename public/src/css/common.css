@@ -4840,13 +4840,13 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     color: #fff;
 }
 #search::-webkit-input-placeholder {
-    color: #dd4b39;
+    color: #000000;
     font-family: Ubuntu, sans-serif;
     font-style: italic;
     font-weight: 100;
 }
 #search::-moz-placeholder {
-    color: #dd4b39;
+    color: #000000;
     font-family: Ubuntu, sans-serif;
     font-weight: 100;
 }
