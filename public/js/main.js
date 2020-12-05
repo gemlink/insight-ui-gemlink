@@ -472,7 +472,7 @@ angular.module('insight.system').controller('IndexController',
 
     var socket = getSocket($scope);
 
-    var _startSocket = function() {
+    var _startSocket = function() { 
       socket.emit('subscribe', 'inv');
       socket.on('tx', function(tx) {
         $scope.txs.unshift(tx);
@@ -802,7 +802,7 @@ angular.module('insight.status').controller('StatusController',
         _onSyncUpdate(sync);
       });
     };
-
+    
     var socket = getSocket($scope);
     socket.on('connect', function() {
       _startSocket();
@@ -989,7 +989,7 @@ function($scope, $rootScope, $routeParams, $location, Global, Transaction, Trans
     $scope.v_index = parseInt($routeParams.v_index);
     $scope.itemsExpanded = true;
   }
-
+  
   //Init without txs
   $scope.txs = [];
 
@@ -1059,7 +1059,7 @@ angular.module('insight.address').factory('Address',
   });
 });
 
-
+ 
 // Source: public/src/js/services/blocks.js
 angular.module('insight.blocks')
   .factory('Block',
