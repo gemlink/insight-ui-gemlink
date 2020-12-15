@@ -5443,11 +5443,11 @@ h2 {
 }
 .txvalues-success {
     background: 0;
-    color: #2FA4D7;
+    color: #000000;
 }
 .txvalues-primary {
     background: 0;
-    color: #8DC429;
+    color: #6f52ed;
 }
 .txvalues-default {
     background: 0;
