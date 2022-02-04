@@ -1,6 +1,6 @@
 {
   "name": "insight-ui-gemlink",
-  "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the TENT network and build your own services with it.",
+  "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the Gemlink network and build your own services with it.",
   "version": "0.4.0",
   "repository": {
     "type": "git",
