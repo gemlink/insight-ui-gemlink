@@ -9,7 +9,7 @@ var InsightUI = function(options) {
   if (typeof options.apiPrefix !== 'undefined') {
     this.apiPrefix = options.apiPrefix;
   } else {
-    this.apiPrefix = 'insight-api-tent';
+    this.apiPrefix = 'insight-api-gemlink';
   }
   if (typeof options.routePrefix !== 'undefined') {
     this.routePrefix = options.routePrefix;
@@ -18,7 +18,7 @@ var InsightUI = function(options) {
   }
 };
 
-InsightUI.dependencies = ['insight-api-tent'];
+InsightUI.dependencies = ['insight-api-gemlink'];
 
 inherits(InsightUI, BaseService);
 

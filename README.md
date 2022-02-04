@@ -1,6 +1,6 @@
 # Insight UI
 
-A Bitcoin blockchain explorer web application service for [Bitcore Node](https://github.com/bitpay/bitcore-node) using the [Insight API](https://github.com/TENTOfficial/insight-api-tent).
+A Bitcoin blockchain explorer web application service for [Bitcore Node](https://github.com/bitpay/bitcore-node) using the [Insight API](https://github.com/gemlink/insight-api-gemlink).
 
 ## Quick Start
 
@@ -70,11 +70,11 @@ compile***.
 
 ## Note
 
-For more details about the [Insight API](https://github.com/TENTOfficial/insight-api-tent) configuration and end-points, go to [Insight API GitHub repository](https://github.com/TENTOfficial/insight-api-tent).
+For more details about the [Insight API](https://github.com/gemlink/insight-api-gemlink) configuration and end-points, go to [Insight API GitHub repository](https://github.com/gemlink/insight-api-gemlink).
 
 ## Contribute
 
-Contributions and suggestions are welcomed at the [Insight UI GitHub repository](https://github.com/TENTOfficial/insight-ui-tent).
+Contributions and suggestions are welcomed at the [Insight UI GitHub repository](https://github.com/gemlink/insight-ui-gemlink).
 
 
 ## License
